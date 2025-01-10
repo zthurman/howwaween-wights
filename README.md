@@ -21,5 +21,6 @@ project.
 ### schematic
 
 This directory contains the eletrical wiring diagram for the 
-control panel build out.
+control panel build out as well as an io-list directory that
+contains csv files for each IO type.
 
