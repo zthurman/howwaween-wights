@@ -1,0 +1,3 @@
+Name, Description, Pin Number
+Clock, Clock pin for APA102 light strips, 11
+Data, Data pin for APA102 light strips, 13
